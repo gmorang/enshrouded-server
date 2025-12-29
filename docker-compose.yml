@@ -14,4 +14,4 @@ services:
       - "${QUERY_PORT}:${QUERY_PORT}/udp"
 
     volumes:
-      - ./data:/home/steam/enshrouded/savegame"
+      - ./data:/home/steam/enshrouded/savegame
